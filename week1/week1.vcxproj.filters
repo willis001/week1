@@ -21,5 +21,8 @@
     <ClCompile Include="Even_Fibonacci.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Largest_Prime_Factor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

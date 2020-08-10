@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Even_Fibonacci.cpp" />
+    <ClCompile Include="Largest_Prime_Factor.cpp" />
     <ClCompile Include="Multiple_of_3_and_5.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

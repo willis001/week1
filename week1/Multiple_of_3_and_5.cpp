@@ -1,7 +1,7 @@
 #include<stdio.h>
-main()
+int main()
 {
-	int num;
+	int num{};
 	for (int i = 0;i < 1000;i++)
 	{
 		if (i % 3 == 0)
